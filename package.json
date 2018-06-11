@@ -20,7 +20,7 @@
     "dev" : "WEBPACK_DEV=dev webpack-dev-server --inline --port 8000",
     "dev_win" : "set WEBPACK_DEV=dev && webpack-dev-server --inline --port 8000",
     "dist" :"WEBPACK_DEV=dev webpack -p",
-    "dist_win" :"set WEBPACK_DEV=dev webpack -p"
+    "dist_win" :"set WEBPACK_DEV=dev webpack -p "
   },
   "repository": {
     "type": "git",

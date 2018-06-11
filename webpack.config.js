@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2018-06-01 11:00:50
 * @Last Modified by:   windows
-* @Last Modified time: 2018-06-11 08:19:32
+* @Last Modified time: 2018-06-11 20:03:35
 */
 var webpack = require('webpack')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
@@ -27,7 +27,7 @@ config = {
 		'login' : ['./src/page/login/login.js']
 	},
 	output:{
-		// 最终生成文件的位置
+		// 最终生 成文件的位置
 		path:__dirname + '/dist',
 		// 访问文件的地址,这个是相对访问地址localhost:8000/dist
 		publicPath:'/dist',

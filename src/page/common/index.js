@@ -1,7 +1,7 @@
 /*
 * @Author: xiaomao
-* @Date:   2018-06-02 10:43:37
+* @Date:   2018-06-11 08:28:44
 * @Last Modified by:   windows
-* @Last Modified time: 2018-06-02 10:46:46
+* @Last Modified time: 2018-06-11 08:29:47
 */
-console.log('i m global')
+console.log('xiaomao')
